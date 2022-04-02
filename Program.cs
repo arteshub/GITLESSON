@@ -13,7 +13,7 @@ namespace ConsoleApp5
             string a = "fsfsffff";
             string b = "dsjdjss";
             string c = a + b;
-            Console.WriteLine(c);
+            char[] list = c.ToCharArray();
         }
     }
 }
