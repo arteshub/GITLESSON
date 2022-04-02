@@ -13,7 +13,9 @@ namespace ConsoleApp5
             string a = "fsfsffff";
             string b = "dsjdjss";
             string c = a + b;
-            char[] list = c.ToCharArray();
+            char[] list = c.ToCharArray() ;
+
+
         }
     }
 }
