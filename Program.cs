@@ -15,7 +15,7 @@ namespace ConsoleApp5
             string c = a + b;
             char[] list = c.ToCharArray() ;
 
-
+            var any = c.Distinct() ;
         }
     }
 }
