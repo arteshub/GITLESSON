@@ -16,6 +16,12 @@ namespace ConsoleApp5
             char[] list = c.ToCharArray() ;
 
             var any = c.Distinct() ;
+            foreach (char item in any)
+            {
+                Console.WriteLine(item);
+            }
+
+
         }
     }
 }
