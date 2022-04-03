@@ -21,7 +21,7 @@ namespace ConsoleApp5
                 Console.WriteLine(item);
             }
 
-
+            //ну тут допустим сделали что надо
         }
     }
 }
